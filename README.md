@@ -1,5 +1,7 @@
 # ts-hi
 
+[![Coverage Status](https://coveralls.io/repos/github/youthcity/ts-hi/badge.svg)](https://coveralls.io/github/youthcity/ts-hi)
+
 ## Install
 
 ```sh
